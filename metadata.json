@@ -1,0 +1,13 @@
+{
+  "name": "FitLife AI",
+  "description": "An AI-powered fitness and wellness companion for personalized training, nutrition, and hydration tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Coaching",
+    "Food Recognition",
+    "Hydration Tracking",
+    "Workout Personalization"
+  ]
+}

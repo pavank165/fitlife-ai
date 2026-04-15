@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+fitlife_android.zip
+fitlife_android_v2.zip
